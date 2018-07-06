@@ -1,7 +1,8 @@
 /**
  * MIT License
  *
- * Copyright (c) 2018 Dmitry Teplov
+ * Copyright (c) 2018 Dmitry Teplov <siht.pilf@gmail.com> (https://github.com/tplk)
+
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -34,7 +35,7 @@
 // @downloadURL     https://github.com/tplk/jira-harvest-agile-board/raw/master/jira-harvest-agile-board.user.js
 //
 // @license         MIT - https://opensource.org/licenses/MIT
-// @copyright       Copyright (c) 2018 Dmitry Teplov <siht.pilf@gmail.com>
+// @copyright       Copyright (c) 2018 Dmitry Teplov <siht.pilf@gmail.com> (https://github.com/tplk)
 //
 // @include         https://*.atlassian.net/secure/RapidBoard*
 // @run-at          document-end
